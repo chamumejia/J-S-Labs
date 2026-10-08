@@ -14,10 +14,10 @@ Nuestro objetivo es crear herramientas que hagan el trabajo más ágil, organiza
 
 - `README.md`: presenta J&S-Labs, al equipo y la organización del proyecto.
 - `CONTRIBUTING.md`: contiene las reglas para ramas, commits, Pull Requests y revisión de cambios.
-- `src/`: espacio destinado al código fuente de la aplicación.
-- `tests/`: espacio destinado a las pruebas del proyecto.
-
-Los documentos principales se mantienen en la raíz del repositorio. El código y las pruebas se organizan por separado para que sea más fácil encontrarlos y mantenerlos.
+- `.gitignore`: excluye del control de versiones `__pycache__/`, `.venv/` y `.env`.
+- `src/`: contiene el código fuente del proyecto.
+- `docs/`: contiene la documentación del proyecto y las bitácoras.
+- `equipo/`: contiene los perfiles de los integrantes.
 
 ## Contribuciones
 
