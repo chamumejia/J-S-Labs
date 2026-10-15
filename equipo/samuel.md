@@ -1,9 +1,6 @@
 # Samuel Mejía Rendón
 
 - Usuario de GitHub: @chamumejia
-- Rol en la empresa: Desarrollador de software líder
+- Rol en la empresa: Líder del equipo de desarrollo de software
 
-En nuestra empresa participo en el desarrollo de soluciones de software para automatizar tareas.
-Me enfoco en apoyar la creación y mejora de funcionalidades según las necesidades de los clientes.
-Me interesa aportar soluciones prácticas, organizadas y fáciles de mantener.
-Trabajo junto al equipo para convertir requerimientos en herramientas útiles.
+En J&S Labs coordino el trabajo del equipo y reviso los cambios del proyecto. También participo en el desarrollo de soluciones que automatizan tareas y convierten las necesidades de los clientes en funcionalidades prácticas, organizadas y fáciles de mantener.
