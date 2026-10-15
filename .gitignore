@@ -1,7 +1,21 @@
-__pycache__/
-.venv/
-.env
-# Datos generados para la actividad R1
-bandeja_entrada/
-pedidos_ordenados/
-revisar/
+## Descripción
+
+Este cambio actualiza el archivo `.gitignore` para evitar que los datos generados durante la actividad R1 se suban al repositorio.
+
+Se agregaron las siguientes carpetas:
+
+- `bandeja_entrada/`: contiene los pedidos generados y recibidos del cliente.
+- `pedidos_ordenados/`: contiene los pedidos organizados por sede.
+- `revisar/`: contiene los archivos que tienen errores o necesitan una revisión manual.
+
+Estas carpetas son archivos de trabajo generados localmente y no deben formar parte del código compartido. También se conservaron las reglas que ya existían en `.gitignore`.
+
+## Verificación realizada
+
+Se comprobó que las tres carpetas son ignoradas correctamente por Git mediante `git check-ignore`.
+
+## Relación con la actividad
+
+Este cambio cumple el ticket #16 y evita subir al repositorio archivos generados durante la ejecución del programa.
+
+Closes #16
